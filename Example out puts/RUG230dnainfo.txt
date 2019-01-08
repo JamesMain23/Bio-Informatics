@@ -1,0 +1,1 @@
+Percentage accuracy of error in the DNA : 0.015066312508494958 %  Amount of Ns present in sequence : 327  Average size : 7863.786231884058  Number of Contigs : 276 N50 = 11052 L50 = 61 Total length of contigs : 2170405.0GC Content of the contigs : 216.15081056300554
